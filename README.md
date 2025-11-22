@@ -1,4 +1,4 @@
-neumonia Detection Using Deep Learning (CNN Model + Grad-CAM + Deployment)
+Pneumonia Detection Using Deep Learning (CNN Model + Grad-CAM + Deployment)
 
 A deep learning–based medical imaging project for automatic detection of Pneumonia from Chest X-ray images, using a custom Convolutional Neural Network (CNN), Grad-CAM visualization, and optional deployment using Flask / Gradio / TFLite mobile deployment.
 
